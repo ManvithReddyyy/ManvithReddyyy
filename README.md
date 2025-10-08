@@ -1,34 +1,7 @@
-<div align="center">
-  
-# Hi there, I'm Manvith Reddy 👋
-
-### 💻 CSE Undergrad | Full-Stack Developer | ML Enthusiast
-
-[![GitHub followers](https://img.shields.io/github/followers/ManvithReddyyy?style=social)](https://github.com/ManvithReddyyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500+-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile)
-
-</div>
-
----
-
-### 🚀 About Me
-
-const manvith = {
-location: "Hyderabad, India",
-education: "CSE @ CVR College of Engineering",
-gpa: "7.1",
-currentlyLearning: ["System Design", "Advanced DSA", "Deep Learning"],
-workingOn: ["Real-time collaborative tools", "ML-powered applications"],
-hobbies: ["Basketball 🏀", "Gym 💪", "Competitive Programming 💻"]
-};
-
-text
 
 - 🎓 Third-year Computer Science Engineering student
 - 💼 Open to **SDE internships** and collaborative projects
 - 🌱 Building scalable web applications & training neural networks
-- ⚡ Solved **500+ LeetCode** problems
 - 🎯 Passionate about real-time systems, cloud architecture & AI
 
 ---
@@ -53,7 +26,6 @@ text
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ML/AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,7 +55,7 @@ text
 
 ---
 
-### 🔥 Recent Projects
+### 🔥 Featured Projects
 
 #### 🎨 [Boardly](https://github.com/ManvithReddyyy/Boardly-)
 Real-time collaborative whiteboard with Socket.io
@@ -95,27 +67,10 @@ Full-stack social media web app
 - **Tech:** MERN Stack, Cloudinary, JWT Auth
 - **Features:** User profiles, playlists, friend system, email verification
 
-#### 🤖 [Neural Network for Image Captioning](https://github.com/ManvithReddyyy/image-caption)
+#### 🤖 Neural Network for Image Captioning
 CNN-LSTM model for generating Instagram-style captions
 - **Tech:** TensorFlow, Keras, Python
 - **Dataset:** 8000+ images trained
-
----
-
-### 🏆 Achievements
-
-- 💻 **500+ LeetCode Problems** solved
-- 🎓 **7.1 GPA** in Computer Science Engineering
-- 🚀 Built **multiple production-ready** full-stack applications
-- 🤖 Trained **deep learning models** from scratch
-- 🏀 Active **athlete** - Basketball & Fitness enthusiast
-
----
-
-### 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -123,21 +78,17 @@ CNN-LSTM model for generating Instagram-style captions
 
 - 🎨 Building **Boardly** - Real-time collaborative whiteboard
 - 🤖 Training neural networks for **computer vision** tasks
-- 💪 Improving **DSA skills** on LeetCode
+- 💪 Improving **DSA skills** and problem-solving
 - 🌱 Learning **System Design** and **Cloud Architecture**
 
 ---
 
-### 📫 Connect With Me
+### 🏆 Achievements
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ManvithReddyyy-181717?style=for-the-badge&logo=github)](https://github.com/ManvithReddyyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvithreddyaddula@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-
-</div>
+- 🎓 **7.1 GPA** in Computer Science Engineering
+- 🚀 Built **multiple production-ready** full-stack applications
+- 🤖 Trained **deep learning models** from scratch
+- 🏀 Active **athlete** - Basketball & Fitness enthusiast
 
 ---
 
@@ -146,7 +97,5 @@ CNN-LSTM model for generating Instagram-style captions
 ### 💼 Open to Internships & Collaborations!
 
 *"Building the future, one commit at a time"* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManvithReddyyy&color=blueviolet&style=for-the-badge)
 
 </div>
